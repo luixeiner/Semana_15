@@ -1,0 +1,5 @@
+Nombre: Einer
+Nota_1: 19
+Nota_2: 18
+Promedio: 18.5
+Aprobado: True
